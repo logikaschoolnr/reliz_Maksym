@@ -1,0 +1,56 @@
+body{
+background: #ffffff;
+background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(0, 210, 242, 1) 100%);
+}
+
+h1{
+color: #080c0c;
+font-size: 55px;
+text-align: center;
+
+}
+
+
+h1:hover{
+transform: scale(1.5);
+transition: 1.5s;
+opacity: 0;
+
+
+}
+
+h2{
+font-size: 45px;
+position: relative;
+text-align: center;
+}
+p{
+font-size: 40px;
+
+}
+
+
+
+h2:hover{
+transform: scale(1.5);
+transition: 2s;
+opacity: 0;
+
+}
+article{
+text-align: center;
+position: relative;
+font-size: 60px
+
+
+}
+
+
+
+p{
+
+ text-align: center;
+position: relative;
+font-size: 60px
+   
+}
